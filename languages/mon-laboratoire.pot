@@ -1,0 +1,1823 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-25 16:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: Admin/class-admin-ui.php:127
+msgid " page(s) in cache."
+msgstr ""
+
+#: Admin/MonLabo-doc.php:481
+#, php-format
+msgid "%s Displaying teams by list %s"
+msgstr ""
+
+#: Admin/MonLabo-doc.php:500
+#, php-format
+msgid ""
+"%s Displaying the header of personal pages %s or the header of team pages %s"
+msgstr ""
+
+#: Admin/class-edit-members.php:441
+msgid "(Co-)director of the unit"
+msgstr ""
+
+#: Admin/MonLabo-doc.php:440 Admin/MonLabo-doc.php:492
+msgid "(disabled)"
+msgstr ""
+
+#: Admin/class-admin-ui.php:547
+#, php-format
+msgid "(This plugin has been updated to version %1$s since version %2$s)"
+msgstr ""
+
+#: Admin/class-edit-members.php:496 Admin/class-edit-members.php:522
+msgid "+ External persons"
+msgstr ""
+
+#: Admin/class-edit-members.php:490
+msgid "+ Mentor"
+msgstr ""
+
+#: Admin/class-edit-members.php:494
+msgid "+ Mentors"
+msgstr ""
+
+#: Admin/class-edit-members.php:516
+msgid "+ Student"
+msgstr ""
+
+#: Admin/class-settings-fields.php:121
+msgid "--- Manual edit (use field \"Prefix\" below) ---"
+msgstr ""
+
+#: Admin/class-settings-fields.php:120
+msgid "--- No change ---"
+msgstr ""
+
+#: Admin/MonLabo-doc.php:461
+#, php-format
+msgid ""
+"<a href=\"%s\">You can find here</a> a video presentation (in french) of "
+"functionalites at congress \"Journées Casuhal 2022\"."
+msgstr ""
+
+#: Admin/Import/class-import-main.php:66
+msgid "<strong>Export persons</strong> to see the data structure."
+msgstr ""
+
+#: Admin/Import/class-import-main.php:80
+msgid "<strong>Export team_member</strong> to see the data structure."
+msgstr ""
+
+#: Admin/Import/class-import-main.php:89
+msgid "<strong>Export teams</strong> to see the data structure."
+msgstr ""
+
+#: Admin/Import/class-import-main.php:70
+msgid ""
+"<strong>id:</strong> This column should be filled with the appropriate value "
+"to replace a former person. For creating a new person use an <strong>"
+"id</strong> field empty or not used (ex: >1000). By default, any person who "
+"is not in the list of ids in the imported file will be deleted."
+msgstr ""
+
+#: Admin/Import/class-import-main.php:93
+msgid ""
+"<strong>id:</strong> Use the same <strong>id</strong> management policy as "
+"for importing persons."
+msgstr ""
+
+#: Admin/Import/class-import-main.php:72
+msgid ""
+"<strong>image:</strong> If this column is empty, it will be ignored (image "
+"is not changed for an existing person)."
+msgstr ""
+
+#: Admin/Import/class-import-main.php:71 Admin/Import/class-import-main.php:94
+msgid "<strong>wp_post_id:</strong> This column is ignored."
+msgstr ""
+
+#: Admin/class-edit-members.php:111 Admin/class-edit-members.php:114
+msgid "A link is possible after a coma:"
+msgstr ""
+
+#: Admin/class-edit-members.php:555
+msgid "active"
+msgstr ""
+
+#: Admin/class-html-forms.php:788 Admin/class-html-forms.php:842
+msgid "Additional page"
+msgstr ""
+
+#: Admin/class-admin-ui.php:288
+msgid "Address block width"
+msgstr ""
+
+#: Admin/class-admin-ui.php:289
+msgid "Address color"
+msgstr ""
+
+#: Admin/class-admin-ui.php:217
+msgid "Address of the Public API of Descartes Publi"
+msgstr ""
+
+#: Admin/class-edit-members.php:824
+msgid "Address of the structure"
+msgstr ""
+
+#: Admin/class-edit-members.php:241
+msgid ""
+"Address of this structure<br />(ex: <em>University Gizmo<br>160 End-of-path "
+"road<br />00000 Nowhere-on-earth<br />France</em>)."
+msgstr ""
+
+#: Admin/class-admin-ui.php:160
+msgid "Advanced features"
+msgstr ""
+
+#: Admin/class-admin-ui.php:506
+msgid "Advanced tools"
+msgstr ""
+
+#: Admin/includes/inc-lib-tables.php:284
+msgid "Affiliations"
+msgstr ""
+
+#: Admin/includes/inc-lib-tables.php:61
+msgid "Alt. addr."
+msgstr ""
+
+#: Admin/includes/inc-lib-tables.php:287
+msgid "Alt. address"
+msgstr ""
+
+#: Admin/includes/inc-lib-tables.php:288
+msgid "Alt. contact"
+msgstr ""
+
+#: Admin/class-edit-members.php:775
+msgid "Alternate contact"
+msgstr ""
+
+#: Admin/class-edit-members.php:222
+msgid ""
+"Alternate contact by email, telephone, fax or other means (if different from "
+"the main contact)"
+msgstr ""
+
+#: Admin/class-edit-members.php:543 Admin/class-edit-members.php:773
+msgid "Alternative address"
+msgstr ""
+
+#: Admin/class-edit-members.php:221
+msgid ""
+"Alternative address (if different from the address of the main structure)"
+msgstr ""
+
+#: Admin/class-edit-members.php:772
+msgid "Alternative coordinates (if different from the main structure)"
+msgstr ""
+
+#: Admin/class-edit-members-advanced.php:494
+msgid "Alumni:"
+msgstr ""
+
+#: Admin/MonLabo-doc.php:525
+msgid "Announcements MonLabo"
+msgstr ""
+
+#: Admin/class-admin-ui.php:605
+msgid "Appearance"
+msgstr ""
+
+#: Admin/class-edit-members.php:313
+msgid "Appearance:"
+msgstr ""
+
+#: Admin/class-admin-ui.php:687
+msgid "At a glance, view your entire database."
+msgstr ""
+
+#: Admin/Import/class-import-main.php:71
+msgid ""
+"At the end of the import, you will be asked if you want to create pages for "
+"new persons."
+msgstr ""
+
+#: Admin/Import/class-import-main.php:94
+msgid ""
+"At the end of the import, you will be asked if you want to create pages for "
+"new teams."
+msgstr ""
+
+#: Admin/class-html-forms.php:517
+msgid "Attention this page is already assigned to"
+msgstr ""
+
+#: Admin/class-edit-members.php:122
+#, php-format
+msgid ""
+"Author number in the Descartes Publi database in order to be able to display "
+"the publications (%s list available here %s)"
+msgstr ""
+
+#: Admin/class-admin-ui.php:694 Admin/class-admin-ui.php:698
+#: Admin/class-admin-ui.php:703 Admin/class-admin-ui.php:709
+msgid "Back to top of page"
+msgstr ""
+
+#: Admin/class-edit-members.php:630
+msgid "Belonging:"
+msgstr ""
+
+#: Admin/class-settings-fields.php:213
+msgid ""
+"Both! (HAL is used by default if the option <i>base</i> is not specified in "
+"<i>[publication_list]</i>)"
+msgstr ""
+
+#: Admin/class-admin-ui.php:128
+msgid "Cache duration"
+msgstr ""
+
+#: Admin/class-settings-fields.php:459
+msgid "Cache emptied!"
+msgstr ""
+
+#: Admin/Import/class-import.php:333 Admin/Import/class-pre-import.php:427
+msgid "Cancel"
+msgstr ""
+
+#: Admin/Import/class-import.php:386 Admin/Import/class-pre-import.php:405
+msgid "Canceled action"
+msgstr ""
+
+#: Admin/class-admin-ui.php:368
+msgid "Categories"
+msgstr ""
+
+#: Admin/class-edit-members-advanced.php:412
+msgid ""
+"CAUTION: potentially dangerous tools. Use them only if you know what you are "
+"doing!"
+msgstr ""
+
+#: Admin/class-admin-ui.php:306
+msgid "Check this box to hide emails of all users."
+msgstr ""
+
+#: Admin/class-html-forms.php:896
+msgid "Choose"
+msgstr ""
+
+#: Admin/class-html-forms.php:1159 Admin/class-html-forms.php:1197
+#: Admin/class-settings-fields.php:389
+msgid "Choose a picture"
+msgstr ""
+
+#: Admin/class-html-forms.php:1157 Admin/class-html-forms.php:1195
+#: Admin/class-settings-fields.php:387
+msgid "Chose media"
+msgstr ""
+
+#: Admin/class-admin-ui.php:126
+msgid "Clear cache"
+msgstr ""
+
+#: Admin/class-settings-fields.php:469
+msgid "Clear publications cache"
+msgstr ""
+
+#: Admin/includes/inc-lib-tables.php:283
+msgid "Code"
+msgstr ""
+
+#: Admin/class-edit-members.php:208
+msgid "Code of the lab (ex: CNRS UMR 8119)"
+msgstr ""
+
+#: Admin/class-edit-members.php:822
+msgid "Code of the structure"
+msgstr ""
+
+#: Admin/class-edit-members.php:240
+msgid "Code of this structure<br />(ex: <em>UMR 666</em>)."
+msgstr ""
+
+#: Admin/class-edit-members.php:623 Admin/class-edit-members.php:624
+#: Admin/includes/inc-lib-tables.php:152
+msgid "Color"
+msgstr ""
+
+#: Admin/class-admin-ui.php:281
+msgid "Color of links and photo outlines"
+msgstr ""
+
+#: Admin/class-edit-members.php:656
+msgid "Composition:"
+msgstr ""
+
+#: mon-laboratoire.php:284
+msgid "Configuration"
+msgstr ""
+
+#: Admin/class-admin.php:164 Admin/class-admin.php:177
+msgid "Configuration of members and teams in the lab"
+msgstr ""
+
+#: Admin/class-messages.php:88
+msgid "Configure"
+msgstr ""
+
+#: Admin/class-admin-ui.php:124
+msgid "Configure publications cache"
+msgstr ""
+
+#: Admin/Import/class-pre-import.php:428
+msgid "Confirm to import."
+msgstr ""
+
+#: Admin/class-edit-members.php:243
+msgid ""
+"Contact by email, phone, fax or other means<br />(ex: <em>Fax : +33 (0) 1 42 "
+"86 20 80</em>)."
+msgstr ""
+
+#: Admin/class-edit-members.php:808
+msgid "Coordinates of the structure that groups the laboratories:"
+msgstr ""
+
+#: Admin/class-edit-members.php:810
+msgid "Coordinates:"
+msgstr ""
+
+#: Admin/class-edit-members-advanced.php:337
+msgid "Correct wrong parent pages"
+msgstr ""
+
+#: Admin/class-html-forms.php:893 Admin/class-edit-members.php:269
+msgid "Create"
+msgstr ""
+
+#: Admin/class-edit-members-advanced.php:120
+msgid "Create missing pages"
+msgstr ""
+
+#: Admin/Import/class-import.php:336
+msgid "Create missing pages for new items"
+msgstr ""
+
+#: Admin/class-edit-members-advanced.php:164
+msgid "Create missing pages translations"
+msgstr ""
+
+#: Admin/Import/class-import.php:363
+#, php-format
+msgid "Created or replaced %s item(s) successfully."
+msgstr ""
+
+#: Admin/class-settings-fields.php:134
+msgid "Current site"
+msgstr ""
+
+#: Admin/class-settings-fields.php:227
+msgid "currently"
+msgstr ""
+
+#: Admin/class-admin-ui.php:292
+msgid "Custom CSS code"
+msgstr ""
+
+#: Admin/class-admin-ui.php:608
+msgid "Custom fields"
+msgstr ""
+
+#: Admin/class-admin-ui.php:162
+msgid "Custom fields for persons"
+msgstr ""
+
+#: Admin/class-edit-members.php:567
+msgid "Custom fields:"
+msgstr ""
+
+#: Admin/class-admin-ui.php:291
+msgid "Custom formatting"
+msgstr ""
+
+#: Admin/class-admin-ui.php:611
+msgid "Custom texts"
+msgstr ""
+
+#: Admin/class-admin-ui.php:303
+msgid "Data privacy"
+msgstr ""
+
+#: Admin/class-admin-ui.php:172
+msgid "Database table prefix to use (multisite)"
+msgstr ""
+
+#: Admin/class-edit-members.php:130
+msgid ""
+"Date or year when the person left the structure (useful for former members)"
+msgstr ""
+
+#: Admin/class-admin-ui.php:284
+msgid "Default image"
+msgstr ""
+
+#: Admin/class-admin-ui.php:337
+msgid "Default title before the list of publications"
+msgstr ""
+
+#: Admin/class-admin-ui.php:367
+msgid "Default title for current members"
+msgstr ""
+
+#: Admin/class-admin-ui.php:366
+msgid "Default title for list of direction members"
+msgstr ""
+
+#: Admin/class-admin-ui.php:365
+msgid "Default title for list of team leaders"
+msgstr ""
+
+#: Admin/class-settings-fields.php:229
+msgid "defined by Polylang"
+msgstr ""
+
+#: Admin/class-edit-members.php:274
+msgid "Delete"
+msgstr ""
+
+#: Admin/Import/class-import.php:357
+#, php-format
+msgid "Deleted %s item(s) successfully."
+msgstr ""
+
+#: Admin/Import/class-import.php:366
+#, php-format
+msgid "Deleted formers relations teams-persons and replaced by %s new ones."
+msgstr ""
+
+#: Admin/class-edit-members.php:558
+msgid "Departure date from the unit"
+msgstr ""
+
+#: Admin/includes/inc-lib-tables.php:64 Admin/includes/inc-lib-tables.php:151
+#: Admin/includes/inc-lib-tables.php:285
+msgid "Descartes Id"
+msgstr ""
+
+#: Admin/includes/inc-lib-tables.php:65
+msgid "Descartes login"
+msgstr ""
+
+#: Admin/class-settings-fields.php:212
+msgid "Descartes Publi (API reserved for the University of ParisDescartes)"
+msgstr ""
+
+#: Admin/class-edit-members.php:331
+msgid "Descartes Publi Id"
+msgstr ""
+
+#: Admin/class-edit-members.php:843
+msgid "Direction:"
+msgstr ""
+
+#: Admin/class-edit-members.php:447
+msgid "Direction?"
+msgstr ""
+
+#: Admin/class-edit-members.php:760 Admin/class-edit-members.php:848
+#: Admin/includes/inc-lib-tables.php:289
+msgid "Directors"
+msgstr ""
+
+#: Admin/MonLabo-doc.php:527
+msgid "discussions of the plugin users"
+msgstr ""
+
+#: Admin/class-admin-ui.php:211 Admin/class-admin-ui.php:218
+msgid "Display format of publications"
+msgstr ""
+
+#: Admin/class-admin-ui.php:230
+msgid "Display language"
+msgstr ""
+
+#: Admin/class-admin-ui.php:320 Admin/class-admin-ui.php:336
+msgid "Display of publications"
+msgstr ""
+
+#: Admin/MonLabo-doc.php:469
+#, php-format
+msgid ""
+"Display of staff...<ul><li>...%1$s that are active: by list %2$s, by table "
+"%3$s, by flowchart %4$s </li><li>... %5$s who are former members: by list "
+"%6$s, by table %7$s, by organization chart %8$s </li></ul>"
+msgstr ""
+
+#: Admin/MonLabo-doc.php:495
+#, php-format
+msgid "Displaying publications %s"
+msgstr ""
+
+#: Admin/class-admin-ui.php:163
+msgid ""
+"Displays the \"Custom Fields\" tab to be able to add custom columns to user "
+"tables (need programming to use)."
+msgstr ""
+
+#: Admin/class-admin-ui.php:175
+msgid ""
+"Do not touch if you do not understand. Permit to use the plugin tables with "
+"other prefixed name."
+msgstr ""
+
+#: Admin/class-edit-members.php:536
+msgid "Door"
+msgstr ""
+
+#: Admin/class-csv.php:159
+msgid "Download CSV"
+msgstr ""
+
+#: Lib/class-polylang-interface.php:167
+msgid "draft"
+msgstr ""
+
+#: Admin/class-html-forms.php:572 Lib/class-polylang-interface.php:169
+msgid "Draft page"
+msgstr ""
+
+#: Admin/class-html-forms.php:180
+msgid "Draft pages"
+msgstr ""
+
+#: Admin/class-edit-members.php:534
+msgid "E-mail(s)"
+msgstr ""
+
+#: Admin/class-html-forms.php:899
+msgid "Edit"
+msgstr ""
+
+#: Admin/class-edit-members.php:407 Admin/class-edit-members.php:463
+msgid "Edit / New"
+msgstr ""
+
+#: Admin/class-forms-processing-advanced.php:208
+msgid "Edit page"
+msgstr ""
+
+#: Lib/class-polylang-interface.php:181 Lib/class-polylang-interface.php:206
+#, php-format
+msgid "edit page #%s"
+msgstr ""
+
+#: Admin/class-admin.php:209
+msgid "Edit persons and structures"
+msgstr ""
+
+#: Admin/class-admin.php:306
+msgid "Edit this person"
+msgstr ""
+
+#: Admin/class-admin.php:311
+msgid "Edit this team"
+msgstr ""
+
+#: Admin/class-admin.php:315
+msgid "Edit this unit"
+msgstr ""
+
+#: Admin/MonLabo-doc.php:516 Admin/includes/inc-lib-tables.php:58
+msgid "Email"
+msgstr ""
+
+#: Admin/class-edit-members.php:106
+msgid "Employment, function of the person in English"
+msgstr ""
+
+#: Admin/class-edit-members.php:107
+msgid "Employment, function of the person in French"
+msgstr ""
+
+#: Admin/class-settings-fields.php:217 Admin/class-settings-fields.php:328
+msgid "English"
+msgstr ""
+
+#: Admin/class-edit-members.php:184
+msgid "English name of the team group"
+msgstr ""
+
+#: Admin/class-settings-fields.php:309
+msgid "English plural"
+msgstr ""
+
+#: Admin/class-settings-fields.php:307
+msgid "English singular"
+msgstr ""
+
+#: Admin/class-csv.php:152
+msgid "Error in export"
+msgstr ""
+
+#: Admin/MonLabo-doc.php:525
+msgid "ex: new versions"
+msgstr ""
+
+#: Admin/class-edit-members-advanced.php:416
+msgid "Export"
+msgstr ""
+
+#: Admin/class-edit-members-advanced.php:411
+msgid "Export / Import items"
+msgstr ""
+
+#: Admin/class-edit-members-advanced.php:81
+msgid "Export persons"
+msgstr ""
+
+#: Admin/class-csv.php:158
+msgid "Export successfull to media librairy"
+msgstr ""
+
+#: Admin/class-edit-members-advanced.php:85
+msgid "Export teams"
+msgstr ""
+
+#: Admin/class-edit-members-advanced.php:94
+msgid "Export teams_members relation table"
+msgstr ""
+
+#: Admin/class-edit-members-advanced.php:88
+msgid "Export thematics"
+msgstr ""
+
+#: Admin/class-edit-members-advanced.php:91
+msgid "Export units"
+msgstr ""
+
+#: Admin/includes/inc-lib-tables.php:62
+msgid "Ext. URL"
+msgstr ""
+
+#: Admin/class-edit-members.php:501
+msgid "External mentors"
+msgstr ""
+
+#: Admin/class-admin-ui.php:141
+msgid "External publication server"
+msgstr ""
+
+#: Admin/class-edit-members.php:527
+msgid "External students"
+msgstr ""
+
+#: Admin/class-admin-ui.php:598
+msgid "Features"
+msgstr ""
+
+#: Admin/class-admin-ui.php:392
+msgid "Field title #%u"
+msgstr ""
+
+#: Admin/class-admin-ui.php:158
+msgid "For a structure that brings together several laboratories."
+msgstr ""
+
+#: Admin/Import/class-import-main.php:72
+msgid ""
+"For importing new image, please drop new files in the <a href=\"media-new."
+"php\">Upload new media</a> interface, then fill the filename in this column."
+msgstr ""
+
+#: Admin/class-edit-members.php:555
+msgid "former member"
+msgstr ""
+
+#: Admin/class-settings-fields.php:218 Admin/class-settings-fields.php:329
+msgid "French"
+msgstr ""
+
+#: Admin/class-edit-members.php:183
+msgid "French name of the team group"
+msgstr ""
+
+#: Admin/class-settings-fields.php:310
+msgid "French plural"
+msgstr ""
+
+#: Admin/class-settings-fields.php:308
+msgid "French singular"
+msgstr ""
+
+#: Admin/class-admin.php:184
+msgid "General configurations"
+msgstr ""
+
+#: Admin/class-admin-ui.php:248
+msgid "Generate default parent page (\"Lab members\")"
+msgstr ""
+
+#: Admin/class-admin-ui.php:253
+msgid "Generate default parent page (\"Teams\")"
+msgstr ""
+
+#: Admin/class-admin-ui.php:259
+msgid "Generate default parent page (\"Thematics\")"
+msgstr ""
+
+#: Admin/class-admin-ui.php:266
+msgid "Generate default parent page (\"Units\")"
+msgstr ""
+
+#: Admin/MonLabo-doc.php:522
+msgid "Get informed"
+msgstr ""
+
+#: Admin/class-settings-fields.php:211
+msgid "HAL (Public API open to all)"
+msgstr ""
+
+#: Admin/class-edit-members.php:187 Admin/class-edit-members.php:245
+#, php-format
+msgid ""
+"HAL structure identifier to be able to display publications (several "
+"possible numbers separated by commas) (%slist available here%s)"
+msgstr ""
+
+#: Admin/class-edit-members.php:217
+#, php-format
+msgid ""
+"HAL structure identifier to be able to display the publications (numbers "
+"separated by commas) (%s list viewable here %s) If empty, MyLabo will use "
+"the idHal of each member of the unit."
+msgstr ""
+
+#: Admin/class-edit-members.php:157
+#, php-format
+msgid ""
+"HAL structure identifier to be able to display the publications (numbers "
+"separated by commas) (%slist available here%s) If empty, MonLabo will use "
+"the IdHal of each member of the team."
+msgstr ""
+
+#: Admin/Import/class-import-main.php:65
+msgid "Help for persons import"
+msgstr ""
+
+#: Admin/Import/class-import-main.php:88
+msgid "Help for teams import"
+msgstr ""
+
+#: Admin/Import/class-import-main.php:79
+msgid "Help for teams_members import"
+msgstr ""
+
+#: Admin/MonLabo-doc.php:513
+msgid "Help us by reporting that you are a user"
+msgstr ""
+
+#: Admin/class-settings-fields.php:219
+msgid "here"
+msgstr ""
+
+#. Author of the plugin
+msgid "Hervé SUAUDEAU"
+msgstr ""
+
+#: Admin/class-admin-ui.php:305
+msgid "Hide emails on the website"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.monlabo.org"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.sppin.fr/members/herve-suaudeau/"
+msgstr ""
+
+#: Admin/includes/inc-lib-tables.php:51 Admin/includes/inc-lib-tables.php:150
+#: Admin/includes/inc-lib-tables.php:221 Admin/includes/inc-lib-tables.php:278
+msgid "Id"
+msgstr ""
+
+#: Admin/class-edit-members.php:182
+msgid "Identifier number of the group of teams that automatically increases"
+msgstr ""
+
+#: Admin/class-edit-members.php:149
+msgid "Identifier number of the team that automatically increments itself"
+msgstr ""
+
+#: Admin/class-edit-members.php:206
+msgid "Identifier number of the unit that automatically increases"
+msgstr ""
+
+#: Admin/class-edit-members.php:398
+msgid "Identity:"
+msgstr ""
+
+#: Admin/class-edit-members.php:325 Admin/includes/inc-lib-tables.php:63
+msgid "IdHAL"
+msgstr ""
+
+#: Admin/class-edit-members.php:126
+#, php-format
+msgid ""
+"IdHal (ex: annie-malduzoo) to be able to display publications (%slist "
+"available here%s)"
+msgstr ""
+
+#: Admin/Import/class-import-main.php:82
+msgid "If this file is imported, all former relations will be deleted."
+msgstr ""
+
+#: Admin/class-admin-ui.php:518
+msgid "If your structure is only one lab (one unit), do not fill."
+msgstr ""
+
+#: Admin/class-html-forms.php:1193
+msgctxt "image"
+msgid "None"
+msgstr ""
+
+#: Admin/class-edit-members-advanced.php:422
+msgid "Import"
+msgstr ""
+
+#: Admin/Import/class-import-main.php:64
+msgid "Import all persons and erase former ones"
+msgstr ""
+
+#: Admin/Import/class-import-main.php:87
+msgid "Import all teams and erase former ones"
+msgstr ""
+
+#: Admin/Import/class-pre-import.php:245
+#, php-format
+msgid "Import file (type %s) is invalid."
+msgstr ""
+
+#: Admin/Import/class-import.php:395
+msgid "Import is finished!"
+msgstr ""
+
+#: Admin/Import/class-import-main.php:100
+msgid "Import persons, teams or teams members table from CVS files"
+msgstr ""
+
+#: Admin/Import/class-import-main.php:78
+msgid "Import teams_members relation table and erase former one"
+msgstr ""
+
+#: Admin/Import/class-pre-import.php:244
+msgid "Importation error"
+msgstr ""
+
+#: Admin/class-edit-members.php:291
+msgid "Information:"
+msgstr ""
+
+#: Admin/class-edit-members-advanced.php:249
+msgid "Invalid WordPress page IDs for:"
+msgstr ""
+
+#: Admin/class-edit-members.php:207
+msgid "Laboratory affiliation structures"
+msgstr ""
+
+#: Admin/class-settings-fields.php:223
+#, php-format
+msgid "Language configured %1$s in WordPress %2$s or by a translation plugin"
+msgstr ""
+
+#: Admin/class-admin-ui.php:229
+msgid "Language of the content generated by Mon Laboratoire"
+msgstr ""
+
+#: Admin/class-admin-ui.php:602
+msgid "Languages"
+msgstr ""
+
+#: Admin/includes/inc-lib-tables.php:152
+msgid "Leaders"
+msgstr ""
+
+#: Admin/includes/inc-lib-tables.php:95
+msgid "link"
+msgstr ""
+
+#: Admin/class-admin-ui.php:215
+msgid "Link to the DescartesPubli publication server"
+msgstr ""
+
+#: Admin/class-admin-ui.php:209
+msgid "Link to the HAL publication server"
+msgstr ""
+
+#: Admin/class-admin-ui.php:280
+msgid "Links"
+msgstr ""
+
+#: Admin/class-admin-ui.php:351
+msgid "Links to an external site"
+msgstr ""
+
+#: Admin/class-edit-members.php:166
+msgid "List of groups to which the team belongs (multiple selection)"
+msgstr ""
+
+#: Admin/class-edit-members.php:185 Admin/class-edit-members.php:220
+#: Admin/class-edit-members.php:314 Admin/includes/inc-lib-tables.php:150
+#: Admin/includes/inc-lib-tables.php:225 Admin/includes/inc-lib-tables.php:282
+msgid "Logo"
+msgstr ""
+
+#: Admin/class-html-forms.php:1155
+msgctxt "logo"
+msgid "None"
+msgstr ""
+
+#: Admin/class-edit-members.php:164
+msgid "Logo <small>(by default it will be the logo of the unit)</small>"
+msgstr ""
+
+#: Admin/class-edit-members.php:828
+msgid "Mail, phone, fax or contact"
+msgstr ""
+
+#: Admin/class-html-forms.php:824
+msgid "Main page"
+msgstr ""
+
+#: Admin/class-admin-ui.php:504 Admin/class-edit-members.php:638
+#: Admin/includes/inc-lib-tables.php:187
+msgid "Main structure"
+msgstr ""
+
+#: Admin/class-edit-members-advanced.php:411
+#: Admin/class-edit-members-advanced.php:428
+msgid "Manage pages"
+msgstr ""
+
+#: Admin/class-edit-members.php:394
+msgid "Member"
+msgstr ""
+
+#: Admin/class-admin-ui.php:322 Admin/class-admin-ui.php:362
+msgid "Members list"
+msgstr ""
+
+#: Admin/class-edit-members-advanced.php:493
+msgid "Members:"
+msgstr ""
+
+#: Admin/includes/inc-lib-tables.php:70
+msgid "Mentors"
+msgstr ""
+
+#: Admin/class-admin-ui.php:356
+msgid "Mentors and supervised students"
+msgstr ""
+
+#: Admin/MonLabo-doc.php:455
+msgid "Mini documentation"
+msgstr ""
+
+#: Admin/class-edit-members-advanced.php:125
+msgid "Missing WordPress page for:"
+msgstr ""
+
+#: Admin/Import/class-import.php:360
+#, php-format
+msgid "Modified %s item(s) successfully."
+msgstr ""
+
+#: Admin/class-edit-members.php:272 Admin/class-edit-members.php:858
+#: Admin/includes/inc-lib-tables.php:81 Admin/includes/inc-lib-tables.php:169
+#: Admin/includes/inc-lib-tables.php:236 Admin/includes/inc-lib-tables.php:300
+msgid "Modify"
+msgstr ""
+
+#. Name of the plugin
+msgid "Mon Laboratoire"
+msgstr ""
+
+#: Admin/MonLabo-doc.php:527
+msgid "MonLabo mailing list"
+msgstr ""
+
+#: Admin/class-settings-fields.php:220
+msgid "Multilingual, using the Polylang translation plugin"
+msgstr ""
+
+#: Admin/includes/inc-lib-tables.php:150 Admin/includes/inc-lib-tables.php:223
+#: Admin/includes/inc-lib-tables.php:280
+msgid "Name (en)"
+msgstr ""
+
+#: Admin/includes/inc-lib-tables.php:150 Admin/includes/inc-lib-tables.php:222
+#: Admin/includes/inc-lib-tables.php:279
+msgid "Name (fr)"
+msgstr ""
+
+#: Admin/class-edit-members.php:299
+msgid "Name in English"
+msgstr ""
+
+#: Admin/class-edit-members.php:297
+msgid "Name in French"
+msgstr ""
+
+#: Admin/class-edit-members.php:210
+msgid "Name of laboratory in English"
+msgstr ""
+
+#: Admin/class-edit-members.php:209
+msgid "Name of laboratory in French"
+msgstr ""
+
+#: Admin/class-admin-ui.php:332
+msgid "Name of the grouping"
+msgstr ""
+
+#: Admin/class-edit-members.php:211
+msgid "Name of the laboratory director (s)"
+msgstr ""
+
+#: Admin/class-edit-members.php:239
+msgid ""
+"Name of the main structure<br /> (ex: <em>Centre on the study of "
+"teleportation and bread crumbs</em>)."
+msgstr ""
+
+#: Admin/class-edit-members.php:820
+msgid "Name of the structure"
+msgstr ""
+
+#: Admin/class-edit-members.php:150
+msgid "Name of the team in English"
+msgstr ""
+
+#: Admin/class-edit-members.php:151
+msgid "Name of the team in French"
+msgstr ""
+
+#: Admin/class-edit-members.php:111 Admin/class-edit-members.php:114
+msgid "NAME,URL"
+msgstr ""
+
+#: Admin/class-admin-ui.php:330
+msgid "Names of the groups of teams (thematic, research group, axis...)"
+msgstr ""
+
+#: Admin/class-edit-members.php:248
+msgid "Names of the structure's directors"
+msgstr ""
+
+#: Admin/class-edit-members.php:160
+msgid "Names of the team leaders (add as a member first)"
+msgstr ""
+
+#: Admin/class-edit-members.php:161
+msgid "Names of the team members"
+msgstr ""
+
+#: Admin/class-edit-members.php:390
+msgid "New member"
+msgstr ""
+
+#: Admin/class-forms-processing.php:510
+msgid "New person created (ID=%u)."
+msgstr ""
+
+#: Admin/class-edit-members.php:604
+msgid "New team"
+msgstr ""
+
+#: Admin/class-forms-processing.php:571
+msgid "New team created (ID=%u)."
+msgstr ""
+
+#: Admin/class-edit-members.php:705
+msgid "New thematic"
+msgstr ""
+
+#: Admin/class-forms-processing.php:628
+msgid "New thematic created (ID=%u)."
+msgstr ""
+
+#: Admin/class-edit-members.php:101
+msgid "New title displayed before the name (ex: Pr., Dr.)"
+msgstr ""
+
+#: Admin/class-edit-members.php:740
+msgid "New unit"
+msgstr ""
+
+#: Admin/class-forms-processing.php:683
+msgid "New unit created (ID=%u)."
+msgstr ""
+
+#: Admin/class-edit-members.php:560
+msgid "no"
+msgstr ""
+
+#: Admin/class-html-forms.php:171 Admin/class-settings-fields.php:644
+msgid "No page"
+msgstr ""
+
+#: Admin/class-admin-ui.php:692
+msgctxt "nom_pluriel"
+msgid "Former members"
+msgstr ""
+
+#: Admin/class-admin-ui.php:690
+msgctxt "nom_pluriel"
+msgid "Working"
+msgstr ""
+
+#: Admin/class-admin-ui.php:386
+msgid "Number of custom fields (1 to 10)"
+msgstr ""
+
+#: Admin/class-admin-ui.php:128
+msgid "Number of hours before update"
+msgstr ""
+
+#: Admin/class-edit-members.php:213
+#, php-format
+msgid ""
+"Number of unit in the Descartes Publi database to be able to display the "
+"publications (%s list viewable here %s)"
+msgstr ""
+
+#: Admin/class-admin-ui.php:544
+msgid "Obsolete parameters"
+msgstr ""
+
+#: Admin/class-edit-members.php:111 Admin/class-edit-members.php:114
+msgid "One person per line."
+msgstr ""
+
+#: mon-laboratoire.php:284
+msgid "Open the configuration page for this plugin"
+msgstr ""
+
+#: Admin/class-settings-fields.php:214
+msgctxt "option-langage"
+msgid "None"
+msgstr ""
+
+#: Admin/class-html-forms.php:156 Admin/class-html-forms.php:379
+#: Admin/class-html-forms.php:423 Admin/class-html-forms.php:663
+#: Admin/class-html-forms.php:1066 Admin/class-html-forms.php:1248
+#: Admin/MonLabo-doc.php:516
+msgid "optional"
+msgstr ""
+
+#: Lib/class-polylang-interface.php:177 Lib/class-polylang-interface.php:201
+msgid "page"
+msgstr ""
+
+#: Admin/class-html-forms.php:902
+msgctxt "page"
+msgid "None"
+msgstr ""
+
+#: Admin/class-forms-processing-advanced.php:300
+#, php-format
+msgid "Page %1$s deleted from %2$s."
+msgstr ""
+
+#: Admin/class-html-forms.php:774 Admin/class-html-forms.php:828
+msgid "Page %d"
+msgstr ""
+
+#: Admin/class-forms-processing.php:335
+#, php-format
+msgid "Page %s created."
+msgstr ""
+
+#: Admin/class-settings-fields.php:513
+msgid "Page created!"
+msgstr ""
+
+#: Admin/class-edit-members.php:308
+msgid "Page ID or ext. URL."
+msgstr ""
+
+#: Admin/class-forms-processing-advanced.php:205
+#, php-format
+msgid "Page of %1$s created (%2$s - %3$s)"
+msgstr ""
+
+#: Admin/class-admin-ui.php:604 Admin/includes/inc-lib-tables.php:53
+#: Admin/includes/inc-lib-tables.php:150 Admin/includes/inc-lib-tables.php:224
+#: Admin/includes/inc-lib-tables.php:281
+msgid "Pages"
+msgstr ""
+
+#: Admin/class-forms-processing.php:325
+#, php-format
+msgid "Pages %1$s and %2$s created."
+msgstr ""
+
+#: Admin/class-forms-processing-advanced.php:302
+#, php-format
+msgid "Pages %1$s deleted from %2$s."
+msgstr ""
+
+#: Admin/class-html-forms.php:173
+msgid "Pages published"
+msgstr ""
+
+#: Admin/class-forms-processing-advanced.php:342
+msgid "Pages switched to draft:"
+msgstr ""
+
+#: Admin/class-edit-members.php:307
+msgid "Pages:"
+msgstr ""
+
+#: Admin/class-forms-processing-advanced.php:369
+msgid "Parent changed for pages:"
+msgstr ""
+
+#: Admin/class-admin-ui.php:245
+msgid "Parent page for personal pages"
+msgstr ""
+
+#: Admin/class-admin-ui.php:250
+msgid "Parent page for teams pages"
+msgstr ""
+
+#: Admin/class-admin-ui.php:256
+msgid "Parent page for thematic pages"
+msgstr ""
+
+#: Admin/class-admin-ui.php:263
+msgid "Parent page for units pages"
+msgstr ""
+
+#: Admin/class-messages.php:91
+msgid "Parent pages not configured"
+msgstr ""
+
+#: Admin/class-admin-ui.php:244
+msgid "Parent pages of persons and structures"
+msgstr ""
+
+#: Admin/class-edit-members.php:129
+msgid "ParisDescartes user name (can be used as login)"
+msgstr ""
+
+#: Admin/class-admin-ui.php:321 Admin/class-admin-ui.php:342
+msgid "Person pannel"
+msgstr ""
+
+#: Admin/class-html-forms.php:519
+msgid "Person(s):"
+msgstr ""
+
+#: Admin/class-admin-ui.php:285
+msgid "Personal banner (perso panel)"
+msgstr ""
+
+#: Admin/class-edit-members.php:538
+msgid "Personal external website"
+msgstr ""
+
+#: Admin/class-edit-members.php:420
+msgid "Personal photo"
+msgstr ""
+
+#: Admin/class-admin-ui.php:282
+msgid "Personal pictures"
+msgstr ""
+
+#: Admin/class-admin-ui.php:385
+msgid "Personalized fields for the personal table"
+msgstr ""
+
+#: Admin/includes/inc-lib-tables.php:55
+msgctxt "personne"
+msgid "Category"
+msgstr ""
+
+#: Admin/class-edit-members.php:452
+msgctxt "personne"
+msgid "Category and function"
+msgstr ""
+
+#: Admin/class-edit-members.php:533
+msgctxt "personne"
+msgid "Coordinates:"
+msgstr ""
+
+#: Admin/class-edit-members.php:416 Admin/includes/inc-lib-tables.php:50
+msgctxt "personne"
+msgid "First name"
+msgstr ""
+
+#: Admin/includes/inc-lib-tables.php:57
+msgctxt "personne"
+msgid "Function (en)"
+msgstr ""
+
+#: Admin/includes/inc-lib-tables.php:56
+msgctxt "personne"
+msgid "Function (fr)"
+msgstr ""
+
+#: Admin/includes/inc-lib-tables.php:67
+msgctxt "personne"
+msgid "Leave date"
+msgstr ""
+
+#: Admin/class-edit-members.php:418 Admin/includes/inc-lib-tables.php:49
+msgctxt "personne"
+msgid "Name"
+msgstr ""
+
+#: Admin/class-edit-members.php:465
+msgctxt "personne"
+msgid "New function (English)"
+msgstr ""
+
+#: Admin/class-edit-members.php:467
+msgctxt "personne"
+msgid "New function (French)"
+msgstr ""
+
+#: Admin/class-edit-members.php:554
+msgctxt "personne"
+msgid "Situation:"
+msgstr ""
+
+#: Admin/class-edit-members.php:555 Admin/includes/inc-lib-tables.php:66
+msgctxt "personne"
+msgid "Status"
+msgstr ""
+
+#: Admin/class-edit-members.php:424 Admin/includes/inc-lib-tables.php:52
+msgctxt "personne"
+msgid "Title"
+msgstr ""
+
+#: Admin/class-admin-ui.php:495 Admin/class-admin-ui.php:680
+#: Admin/class-admin-ui.php:689 Admin/class-edit-members-advanced.php:451
+#: Admin/class-edit-members-advanced.php:485 Admin/class-edit-members.php:677
+#: Admin/Import/class-import.php:321
+msgid "Persons"
+msgstr ""
+
+#: Admin/class-admin.php:210
+msgid "Persons and structures"
+msgstr ""
+
+#: Admin/class-admin-ui.php:143
+msgid "Persons and teams"
+msgstr ""
+
+#: Admin/includes/inc-lib-tables.php:59
+msgid "Phone"
+msgstr ""
+
+#: Admin/class-edit-members.php:540
+msgid "Phone extension number"
+msgstr ""
+
+#: Admin/class-edit-members.php:826
+msgid "Phone prefix"
+msgstr ""
+
+#: Admin/class-edit-members.php:242
+msgid "Phone prefix of the structure<br />(ex: <em>+33 1 42 86 </em>)."
+msgstr ""
+
+#: Admin/class-edit-members.php:120 Admin/includes/inc-lib-tables.php:54
+msgid "Photo"
+msgstr ""
+
+#: Admin/Import/class-pre-import.php:429
+msgid "Please confirm before import"
+msgstr ""
+
+#: Admin/class-admin-ui.php:545
+msgid "Please reload the page."
+msgstr ""
+
+#: Admin/Import/class-import-main.php:81
+msgid "Please use the following mandatory columns:"
+msgstr ""
+
+#: Admin/Import/class-import-main.php:67 Admin/Import/class-import-main.php:90
+msgid "Please use the following minimum mandatory columns:"
+msgstr ""
+
+#: Lib/class-polylang-interface.php:250
+msgctxt "plugin"
+msgid "activated"
+msgstr ""
+
+#: Lib/class-polylang-interface.php:252
+msgctxt "plugin"
+msgid "deactivated"
+msgstr ""
+
+#: Lib/class-polylang-interface.php:254
+msgctxt "plugin"
+msgid "uninstalled"
+msgstr ""
+
+#: Admin/class-admin-ui.php:140
+msgid "Plugin functions that can be activated"
+msgstr ""
+
+#: Admin/class-messages.php:67
+msgid "Plugin Mon-laboratoire:"
+msgstr ""
+
+#: Admin/class-settings-fields.php:220
+msgid "Polylang plugin status"
+msgstr ""
+
+#: Admin/class-edit-members.php:118
+msgid "Possible address of replacement for the structure."
+msgstr ""
+
+#: Admin/class-admin-ui.php:166
+msgid "Prefix to use for the database"
+msgstr ""
+
+#: Admin/class-admin-ui.php:169
+msgid "Prefix:"
+msgstr ""
+
+#: Admin/MonLabo-doc.php:459
+msgid "Presentation of functionalities in video"
+msgstr ""
+
+#: Admin/class-admin-ui.php:606
+msgid "Privacy"
+msgstr ""
+
+#: Admin/class-edit-members.php:437
+msgid "Properties:"
+msgstr ""
+
+#: Admin/class-admin-ui.php:600
+msgid "Publications"
+msgstr ""
+
+#: Admin/class-admin.php:200
+msgid "Publications cache"
+msgstr ""
+
+#: Admin/class-edit-members.php:321 Admin/class-edit-members.php:835
+msgid "Publications:"
+msgstr ""
+
+#: Admin/Import/class-import-main.php:68 Admin/Import/class-import-main.php:91
+msgid "Read these tips before completing the following columns:"
+msgstr ""
+
+#: Admin/class-edit-members-advanced.php:244
+msgid "Removes invalid page numbers"
+msgstr ""
+
+#: Admin/class-admin-ui.php:348 Admin/includes/inc-lib-tables.php:60
+msgid "Room"
+msgstr ""
+
+#: Admin/class-admin-ui.php:283
+msgid "Rounding rate of pictures (0 to 50%)"
+msgstr ""
+
+#: Admin/class-html-forms.php:994
+msgid "Select"
+msgstr ""
+
+#: Admin/class-edit-members.php:360
+msgid "Selection:"
+msgstr ""
+
+#: Admin/class-admin-ui.php:157
+msgid "Several units"
+msgstr ""
+
+#: Admin/MonLabo-doc.php:463
+msgid "Shortcodes"
+msgstr ""
+
+#: Admin/class-admin-ui.php:318 Admin/class-admin-ui.php:680
+#: Admin/class-edit-members-advanced.php:411
+msgid "Shortcuts:"
+msgstr ""
+
+#. Description of the plugin
+#: Admin/class-admin-ui.php:573
+msgid "Simplify the management of a research unit's website"
+msgstr ""
+
+#: Admin/class-admin-ui.php:287
+msgid "Size of person's name"
+msgstr ""
+
+#: Admin/class-admin-ui.php:290
+msgid "Size of the address text"
+msgstr ""
+
+#: Admin/includes/inc-lib-tables.php:151 Admin/includes/inc-lib-tables.php:226
+#: Admin/includes/inc-lib-tables.php:286
+msgid "Struct. Id"
+msgstr ""
+
+#: Admin/class-edit-members.php:325 Admin/class-edit-members.php:836
+msgid "struct. Id"
+msgstr ""
+
+#: Admin/class-edit-members.php:644
+msgid "Structure"
+msgstr ""
+
+#: Admin/class-edit-members.php:520
+msgid "Students"
+msgstr ""
+
+#: Admin/MonLabo-doc.php:525 Admin/MonLabo-doc.php:527
+msgid "Subscribe now"
+msgstr ""
+
+#: Admin/class-edit-members-advanced.php:323
+msgid "Switch to draft alumni pages"
+msgstr ""
+
+#: Admin/class-admin-ui.php:505
+msgid "Table view"
+msgstr ""
+
+#: Admin/class-edit-members.php:611
+msgid "Team"
+msgstr ""
+
+#: Admin/class-edit-members.php:165
+msgid "Team color (used in[members_chart],[members_table] and[team_panel])"
+msgstr ""
+
+#: Admin/class-admin-ui.php:148 Admin/class-admin-ui.php:319
+msgid "Team groups"
+msgstr ""
+
+#: Admin/Import/class-pre-import.php:342
+msgid "team leader"
+msgstr ""
+
+#: Admin/class-edit-members.php:678
+msgid "Team leaders"
+msgstr ""
+
+#: Admin/class-edit-members.php:153
+#, php-format
+msgid ""
+"Team number in the Descartes Publi database to be able to display the "
+"publications (%s list available here %s)"
+msgstr ""
+
+#: Admin/class-html-forms.php:522
+msgid "Team(s):"
+msgstr ""
+
+#: Admin/class-admin-ui.php:496 Admin/class-admin-ui.php:680
+#: Admin/class-admin-ui.php:696 Admin/class-edit-members-advanced.php:454
+#: Admin/class-edit-members-advanced.php:509 Admin/class-edit-members.php:476
+#: Admin/includes/inc-lib-tables.php:69 Admin/includes/inc-lib-tables.php:227
+#: Admin/Import/class-import.php:325
+msgid "Teams"
+msgstr ""
+
+#: Admin/class-edit-members.php:116
+msgid ""
+"Telephone extension (enter a number starting with + so that the prefix is "
+"not used)"
+msgstr ""
+
+#: Admin/MonLabo-doc.php:520
+msgid "Tell the authors that you are using the plugin on"
+msgstr ""
+
+#: Admin/Import/class-pre-import.php:420
+#, php-format
+msgid "The %s following persons will be created:"
+msgstr ""
+
+#: Admin/Import/class-pre-import.php:418
+#, php-format
+msgid "The %s following persons will be deleted:"
+msgstr ""
+
+#: Admin/Import/class-pre-import.php:419
+#, php-format
+msgid "The %s following persons will be modified:"
+msgstr ""
+
+#: Admin/Import/class-pre-import.php:423
+#, php-format
+msgid "The %s following teams will be created:"
+msgstr ""
+
+#: Admin/Import/class-pre-import.php:421
+#, php-format
+msgid "The %s following teams will be deleted:"
+msgstr ""
+
+#: Admin/Import/class-pre-import.php:422
+#, php-format
+msgid "The %s following teams will be modified:"
+msgstr ""
+
+#: Admin/Import/class-import.php:319
+msgid "The following new items do not have a WordPress page:"
+msgstr ""
+
+#: Admin/Import/class-pre-import.php:424
+msgid "The new members list will be:"
+msgstr ""
+
+#: Admin/class-html-forms.php:587
+#, php-format
+msgid "The page #%s does not exist"
+msgstr ""
+
+#: Admin/class-messages.php:68
+msgid ""
+"The plugin does not work because it was installed on an obsolete version of "
+"mon-laboratoire (&lt; v2.8). To solve the problem, before putting back this "
+"version, you must install version 2.8 of the plugin to ensure data migration."
+msgstr ""
+
+#: Admin/class-admin-ui.php:545
+msgid "The plugin has changed settings and will update itself."
+msgstr ""
+
+#: Admin/class-html-forms.php:525
+msgid "Thematic(s):"
+msgstr ""
+
+#: Admin/class-admin-ui.php:682 Admin/class-admin-ui.php:701
+msgid "Thematics"
+msgstr ""
+
+#: Admin/MonLabo-doc.php:464
+msgid ""
+"This plugin adds the below shortcodes. These \"shortcodes\" are to be "
+"inserted in the pages to automatically generate contents."
+msgstr ""
+
+#: Admin/MonLabo-doc.php:456
+msgid ""
+"This WordPress plugin allows, on a unified interface, to manage the pages of "
+"teams and staff of a research laboratory.<br /> It simplifies the update of "
+"members and teams, their information and their publication list (extracted "
+"from HAL or an in-house database such as Paris Descartes database)."
+msgstr ""
+
+#: Admin/class-edit-members.php:412
+msgctxt "titre honnorifique"
+msgid "Title"
+msgstr ""
+
+#: Admin/class-admin-ui.php:151
+#, php-format
+msgid ""
+"To be able to group teams (thematic, research group, axis...). You can "
+"configure the name of the grouping on <a href=\"%s\">this page</a>"
+msgstr ""
+
+#: Admin/class-page.php:178
+msgid "translated"
+msgstr ""
+
+#: Admin/class-forms-processing-advanced.php:256
+#, php-format
+msgid "Translation of %1$s pages created (%2$s)"
+msgstr ""
+
+#: Admin/class-forms-processing.php:371
+msgid "Unable to create the page."
+msgstr ""
+
+#: Admin/class-admin-ui.php:144
+msgid ""
+"Uncheck this box to use only the extraction of Descartes Publi publications."
+msgstr ""
+
+#: Admin/class-edit-members.php:635 Admin/class-edit-members.php:747
+#: Admin/includes/inc-lib-tables.php:152
+msgid "Unit"
+msgstr ""
+
+#: Admin/class-html-forms.php:528
+msgid "Unit(s):"
+msgstr ""
+
+#: Admin/class-admin-ui.php:502 Admin/class-admin-ui.php:685
+#: Admin/class-admin-ui.php:707 Admin/class-edit-members-advanced.php:461
+#: Admin/class-edit-members-advanced.php:549
+msgid "Units"
+msgstr ""
+
+#: Admin/class-edit-members.php:753
+msgctxt "unité"
+msgid "Code"
+msgstr ""
+
+#: Admin/class-html-forms.php:589
+#, php-format
+msgid "URL %s is invalid"
+msgstr ""
+
+#: Admin/class-html-forms.php:1160 Admin/class-html-forms.php:1198
+#: Admin/class-settings-fields.php:390
+msgid "use this picture"
+msgstr ""
+
+#: Admin/class-admin-ui.php:552
+#, php-format
+msgid "version %s"
+msgstr ""
+
+#: Admin/includes/inc-lib-tables.php:68
+msgid "Visible"
+msgstr ""
+
+#: Admin/class-edit-members.php:560
+msgid "Visible person?"
+msgstr ""
+
+#: Admin/class-settings-fields.php:219
+msgid "Visitor's browser language"
+msgstr ""
+
+#: Admin/Import/class-pre-import.php:416
+msgid "WARNING : The following tasks will be carried out if you confirm:"
+msgstr ""
+
+#: Admin/class-admin-ui.php:286
+msgid "Width of the personal banner"
+msgstr ""
+
+#: Admin/class-edit-members-advanced.php:296
+msgid "WordPress page IDs of alumni that are not draft:"
+msgstr ""
+
+#: Admin/class-edit-members-advanced.php:169
+msgid "WordPress page without translation for:"
+msgstr ""
+
+#: Admin/class-edit-members-advanced.php:342
+msgid "Wrong WordPress parent page for:"
+msgstr ""
+
+#: Admin/class-edit-members.php:560
+msgid "yes"
+msgstr ""
+
+#: Admin/MonLabo-doc.php:514
+#, php-format
+msgid ""
+"You can allow the developers to publish on the <a href=\"%s\">plugin site</a>"
+" that you are a user of MyLabo. This will do us a great service to show that "
+"this plugin is being used."
+msgstr ""
+
+#: Admin/MonLabo-doc.php:523
+msgid "You can also subscribe to the following mailing lists"
+msgstr ""
+
+#: Admin/class-admin-ui.php:488 Admin/class-admin-ui.php:589
+msgid "You do not have sufficient permission to access this page."
+msgstr ""
+
+#: Admin/class-messages.php:92
+msgid ""
+"You have not configured a parent page for new pages. By default, new pages "
+"will be saved at the root."
+msgstr ""

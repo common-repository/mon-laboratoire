@@ -1,0 +1,465 @@
+/*-----------------------------------------------------
+ * For images
+/*-----------------------------------------------------*/
+.img-arrondi  { border-radius: 50%; }
+
+/*-----------------------------------------------------
+ * For encoding email adresses
+/*-----------------------------------------------------*/
+.MonLabo-email {
+	display: inline;
+}
+
+.MonLabo-email span {
+	display: none;
+}
+
+/*---------------------------------------------------------------------
+ * Bandeau personnel
+ --------------------------------------------------------------------*/
+ .bandeau-personnel {
+    padding: 20px inherit;
+	padding-bottom: 20px;
+	font-size: 12px;
+	width: 667px;
+	margin-right: auto;
+	margin-left: inherit;
+	overflow: auto;
+}
+
+.bandeau-personnel h1 {
+	margin: 0;
+	padding: 0;
+	line-height: 100%;
+	font-weight: 700;
+	clear: none;
+	font-size: 100%;
+}
+.bandeau-personnel .supervisor h1 {
+	font-weight: 700;
+	font-size: 120%;
+}
+
+.bandeau-personnel .adresse {
+    color: #aaa;
+	width: 180px;
+	float: right;
+	padding: 0 20px;
+}
+
+.bandeau-personnel .adresse p {
+	font-size: 10px;
+}
+
+.bandeau-personnel .supervisor {
+	display: table;
+}
+
+.bandeau-personnel .supervisors_list {
+	padding-left: 10px;
+}
+
+.monlaboBlocTexte {
+	display: table;
+}
+
+/*Sur petit écran afficher le bandeau personnel de façon optimale */
+@media screen and (max-width: 450px) {
+	.monlaboBlocTexte {
+		clear: both;
+		text-align: center;
+		width: 100%;
+	}
+	.bandeau-personnel {
+		width: 100% !important;
+	}
+	.bandeau-personnel .adresse {
+		display: none;
+	}
+	.bandeau-personnel img {
+		float: unset;
+		margin-left: auto;
+		margin-right: auto;
+		display: block;
+	}
+}
+
+/*---------------------------------------------------------------------
+ * Bandeau équipe
+ --------------------------------------------------------------------*/
+ .bandeau-equipe {
+	padding-bottom: 20px;
+	padding-top: 20px;
+	width: 667px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.bandeau-equipe h1 {
+	margin: 0;
+	padding: 0;
+	line-height: 100%;
+	font-weight: 700;
+	clear: none;
+	font-size: 100%;
+}
+
+.bandeau-equipe .thematics {
+	width: 300px;
+	float: right;
+	padding-top: 0;
+	font-size: 90%;
+}
+
+/*---------------------------------------------------------------------
+ * Members of the lab class
+ --------------------------------------------------------------------*/
+ .MonLabo-lastname {
+	text-transform: uppercase;
+}
+
+.MonLabo-persons-list h1{
+	clear: left;
+}
+
+.MonLabo-persons-list a:visited {
+	color: #2980b9;
+}
+
+.MonLabo-persons-list ul {
+	list-style: none;
+	padding: 0;
+	margin: 30px 0 0 0;
+}
+
+.MonLabo-persons-list ul li {
+	padding-left: 14px;
+	line-height: 1em;
+	margin-bottom: 0;
+	vertical-align: middle;
+	overflow: visible;
+	color: grey;
+	clear: both;
+	min-height: 70px;
+}
+
+.MonLabo-persons-list ul li strong {
+	font-size: 18px;
+	font-weight: normal;
+	padding-right: 3px;
+}
+
+.MonLabo-persons-list .team-description {
+	font-size: 10px;
+}
+
+.MonLabo-persons-list ul li .MonLabo-user-coordonates {
+	padding: 0;
+	margin: 7px 0 0 0;
+	color: grey;
+}
+
+.MonLabo-persons-list ul li em {
+	font-style: normal;
+	font-size: 14px;
+	color: grey;
+	font-variant: small-caps;
+}
+
+.MonLabo-persons-list ul li img {
+	width: 60px;
+	height: 60px;
+	border: 1px solid #00a4db;
+	margin-top: -6px !important;
+	clear: left;
+	transition: transform .25s ease-in-out, border .25s ease-in-out;
+}
+
+.MonLabo-persons-list ul li a:hover img {
+	transform: scale(1.2);
+	border-width: 2px;
+}
+
+.MonLabo-user-image {
+	clear: left;
+	float: left;
+	min-height: 70px;
+}
+
+.MonLabo-user-text {
+	margin-bottom: 15px;
+	display: table;
+	word-wrap: break-word;
+	hyphens: auto;
+}
+
+
+/*---------------------------------------------------------------------
+ * publications list class
+ --------------------------------------------------------------------*/
+.publications ul {
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+.publications ul li {
+	background-size: 6px 10px;
+	background-repeat: no-repeat;
+	background-position: 0px 5px;
+	padding-left: 14px;
+	margin-bottom: 9px;
+}
+
+.publi_journal {
+	font-style: italic;
+}
+
+/*---------------------------------------------------------------------
+ * team_panel class
+ --------------------------------------------------------------------*/
+.team-panel-color-block {
+	display: block;
+	width: 100%;
+	height: 20px;
+	border: none;
+	margin: 5px 0;
+}
+
+/*---------------------------------------------------------------------
+ * teams_list class
+ --------------------------------------------------------------------*/
+ .teams_list ul {
+	list-style: none;
+	padding: 0;
+	margin: 30px auto 0 auto;
+	width: 600px;
+}
+
+.teams_list ul li {
+	padding-left: 14px;
+	line-height: 1em;
+	margin-bottom: 15px;
+	vertical-align: middle;
+	overflow: visible;
+	clear: both;
+	min-height: 55px;
+	display: table;
+	width: 100%;
+}
+
+.teams_list ul li strong {
+	font-size: 18px;
+	font-weight: normal;
+	padding-right: 3px;
+}
+
+.teams_list img.team_logo {
+	width: 60px;
+	height: 60px;
+	border: 1px solid #00a4db;
+	margin-top: -6px !important;
+	transition: all .25s ease-in-out;
+	transform: scale(1);
+	float: left;
+	margin-right: 10px;
+	border: none;
+}
+
+.teams_list ul li a:hover img {
+	transform: scale(1.2);
+}
+
+.team_list_item {
+	display: table-cell;
+}
+
+.teams-list-other-thematics-logos {
+	display: table-cell;
+	text-align: right;
+	vertical-align: middle;
+	min-width: 0;
+}
+
+.teams_list img.thematics_logo {
+	display: inline;
+	margin-left: 10px;
+	height: 40px;
+	border: none;
+	margin-top: -6px;
+	margin-bottom: 6px;
+}
+
+.teams-list-color-block {
+	display: inline;
+	width: 20px;
+	height: 60px;
+	border: none;
+	float: left;
+	margin-right: 10px;
+	margin-top: -6px;
+}
+
+.teams_list a:visited,
+.teams_list a,
+.teams_list a:hover {
+	text-decoration: none;
+	color: black;
+}
+
+.teams_list h4 {
+	color: black;
+	font-weight: normal;
+}
+
+.teams_list a:hover h4 {
+	text-decoration: underline;
+}
+
+.teams-list-publications-link {
+	margin-top: 5px;
+	font-size: 80%;
+	color: grey;
+}
+
+/*remove the default bullet by artisteer*/
+.teams_list .team_information {
+	display: table-cell;
+}
+
+/*---------------------------------------------------------------------
+ * MonLabo class
+ --------------------------------------------------------------------*/
+ .MonLabo h1 {
+	 clear: left;
+ }
+
+ /*---------------------------------------------------------------------
+  * MonLabo table class
+  --------------------------------------------------------------------*/
+  .MonLabo-persons-table-normal table {
+	border-spacing: 0;
+	border-collapse: collapse;
+	width: 100%;
+	border: none;
+}
+
+.MonLabo-persons-table-normal th,
+.MonLabo-persons-table-compact th {
+	text-align: left;
+	padding: 0;
+}
+
+.MonLabo-persons-table-normal td,
+.MonLabo-persons-table-compact td {
+	vertical-align: top;
+	padding: 0;
+	overflow-wrap: anywhere;
+	word-break: keep-all;
+	hyphens: auto;
+}
+
+.MonLabo-persons-table-compact ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.MonLabo-persons-table-compact ul > li {
+  padding: 0;
+}
+
+.MonLabo-persons-table-compact ul > li:before {
+  content: none; /* Suppress potential list image marker in theme */
+}
+
+.MonLabo-persons-table-compact {
+  margin-right: 10px; /* Do not authorize texts of different columns to touch */
+}
+
+/* Sur petit écran afficher les tables de façon optimale */
+@media screen and (max-width: 800px) {
+	/* Force table to not be like tables anymore */
+	.MonLabo-persons-table-normal table,
+	.MonLabo-persons-table-normal thead,
+	.MonLabo-persons-table-normal tbody,
+	.MonLabo-persons-table-normal tr {
+		display: block;
+		margin-bottom: 10px;
+	}
+	.MonLabo-persons-table-normal th,
+	.MonLabo-persons-table-normal td {
+		display: inline-block;
+	}
+	.MonLabo-persons-table-normal td,
+	.MonLabo-persons-table-normal th {
+	/* Behave  like a "row" */
+		width:50%;
+	}
+	.MonLabo-persons-table-normal tr:nth-child(2n) {
+	/* Behave  like a "row" */
+		background: #DDD;
+	}
+	table.MonLabo-persons-table-compact td {
+		display: block;
+	}
+}
+/*---------------------------------------------------------------------
+ * MonLabo chart class
+ --------------------------------------------------------------------*/
+.MonLabo-persons-chart hr {
+	border-top-color: #ccc;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.MonLabo-persons-chart caption {
+	text-align: center;
+}
+/*-----------------------------------------------------
+ * For HAL publications
+/*-----------------------------------------------------*/
+/* Classe css de la page*/
+#res_script {
+	border: 0;
+	background-color: white;
+	color: #353735;
+}
+
+/* Zone de Titre et champs cachés */
+div.ZoneTitreResultat,
+.ValeurRes.LienBibtex,
+.LienBibtexACoteFulltext,
+.ChampRes {
+	display: none;
+}
+
+/* classes pour les rubriques pour certains type de classement (type de publi, année de publi) */
+.Rubrique{
+	border-bottom: 2px solid #e00034;
+}
+
+.NoticeResAvecVignette {
+	border-bottom: 1px solid #cbc7bf;
+}
+
+/* Classe commune à tous les champs affichés */
+.ValeurRes {
+	color: black;
+	/* margin-left: 1em; */
+	margin-top: 0em;
+	margin-bottom: 0em;
+	font-size: 13px;
+	display: inline;
+}
+
+.ValeurRes.Fichier_joint {
+	margin-top: 5px;
+}
+
+/* Classe pour les titres */
+.Titre,
+.Titre a {
+  font-weight: 700;
+	color: #58529f;
+}
